@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="belum_mendapat_kode_otp_kirim_ulang">Belum mendapat Kode OTP? <b>Kirim Ulang</b></string>
+</resources>
